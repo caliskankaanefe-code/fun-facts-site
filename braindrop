@@ -1,0 +1,33 @@
+Publish directory: /index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QuickBuzz - Fun Facts</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background: #f2f2f2; }
+        h1 { text-align: center; color: #333; }
+        h3 { color: #ff4d4f; margin-bottom: 5px; }
+        p { font-size: 16px; margin-top: 0; }
+        .fact { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+    </style>
+</head>
+<body>
+    <h1>Daily Fun Facts!</h1>
+
+    <!-- index.html -->
+    <div class="fact">
+        <h3>Fact 1</h3>
+        <p>Did you know octopuses have three hearts?</p>
+    </div>
+    <div class="fact">
+        <h3>Fact 2</h3>
+        <p>Bananas are berries, but strawberries are not!</p>
+    </div>
+    <div class="fact">
+        <h3>Fact 3</h3>
+        <p>A group of flamingos is called a "flamboyance".</p>
+    </div>
+
+</body>
+</html>
